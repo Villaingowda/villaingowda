@@ -2,10 +2,8 @@
 About Me
 👋 Hi there! I'm Darshan Gowda , a passionate and motivated software developer currently pursuing my Master of Computer Applications (MCA) in my first year. My journey in the world of coding started with a curiosity for how things work behind the scenes, and this curiosity has driven me to explore various technologies and tools.
 
-Skills
-🌟 MERN Stack Developer
-I have been honing my skills in the MERN stack, which includes:
-
+🌟 Skills
+MERN Stack Developer I have been honing my skills in the MERN stack, which includes:
 * MongoDB: Experience in designing and managing NoSQL databases.
 * Express.js: Building robust backend applications and RESTful APIs.
 * React.js: Creating dynamic and responsive user interfaces.
