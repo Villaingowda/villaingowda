@@ -4,12 +4,12 @@ About Me
 
 Skills
 🌟 MERN Stack Developer
-I have been honing my skills in the MERN stack, 
-which includes:
-MongoDB: Experience in designing and managing NoSQL databases.
-Express.js: Building robust backend applications and RESTful APIs.
-React.js: Creating dynamic and responsive user interfaces.
-Node.js: Developing scalable server-side applications.
+I have been honing my skills in the MERN stack, which includes:
+
+* MongoDB: Experience in designing and managing NoSQL databases.
+* Express.js: Building robust backend applications and RESTful APIs.
+* React.js: Creating dynamic and responsive user interfaces.
+* Node.js: Developing scalable server-side applications.
 
 🚀 Goals
 
